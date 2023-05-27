@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankhurisriv&label=Profile%20views&color=0e75b6&style=flat" alt="pankhurisriv" /> </p>
 
-- 🌱 I’m currently learning **Spring Microservices, Low Level Design**
+- 🌱 I’m currently learning **Microservices with Spring Boot, Low Level Design**
 
 - 📫 How to reach me **pankhurishrivastava67@gmail.com**
 
